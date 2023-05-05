@@ -1,7 +1,7 @@
 
 # Jorge Walter A. Lopez Cabrera 👨🏽‍💻 
 
-📍**Location:**  Guatemala City, Guatemala
+###### 📍 Guatemala City, Guatemala
 
 ## 💻 Development Technologies
 * PHP
