@@ -27,25 +27,4 @@ Feel free to connect with me for more information about my projects and experien
 [![Linkedin: georgedevcraft](https://img.shields.io/badge/-georgedevcraft-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgedevcraft/)](https://www.linkedin.com/in/georgedevcraft/)
 [![GitHub George](https://img.shields.io/github/followers/jorgelop1994?label=follow&style=social)](https://github.com/jorgelop1994)
 
-
-[![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](https://github.com/jorgelop1994)
-
-
-
-<!-- add the pgn in assets -->
-
-
-<!--
-**jorgelop1994/jorgelop1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](mailto:jorgelop1994@gmail.com?subject=Hey!%20Let's%20Connect%20😎)
