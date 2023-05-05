@@ -28,7 +28,7 @@ Feel free to connect with me for more information about my projects and experien
 [![GitHub George](https://img.shields.io/github/followers/jorgelop1994?label=follow&style=social)](https://github.com/jorgelop1994)
 
 
-![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+[![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](https://github.com/jorgelop1994)
 
 
 
