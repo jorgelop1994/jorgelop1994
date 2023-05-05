@@ -3,8 +3,6 @@
 
 📍**Location:**  Guatemala City, Guatemala
 
- <img src="assets/dev_comic.png" width="400px" height="auto" /> 
-
 ## 🎯 Objective
 As a skilled and experienced software developer, I possess strong technical acumen and a passion for creating innovative solutions. I am always seeking out new challenges, and am excited to take on new projects that will allow me to continue to grow as a software developer and enhance the system's capability. With my skills and experience, I am confident that I can help organizations leverage the power of API integration to improve their operations and drive growth.
 
