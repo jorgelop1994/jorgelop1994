@@ -103,5 +103,8 @@ Attention all tech enthusiasts, developers, and creatives! We need your help to 
 **Q:** Are there any limits on contributions?
 **A:** To ensure diverse participation and a collaborative spirit, each member can contribute up to 5 times as a Pokedex Resource and up to 5 times as a Tech Pokemon Trainer. This approach allows everyone to have an opportunity to showcase their creativity and talent while we work together as a unified team.
 
-
 Join our incredible adventure and help us catch 'em all! Together, we can create the ultimate Tech Pokemon world!
+
+## Disclaimer
+
+This project is a fun, creative, and community-driven initiative. It is not affiliated with, endorsed by, or sponsored by any official Pokemon, technology, or software entities. All contributions should respect the intellectual property rights of the original creators, and any content submitted should adhere to fair use guidelines.
