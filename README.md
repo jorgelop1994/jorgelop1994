@@ -76,9 +76,9 @@ Attention all tech enthusiasts, developers, and creatives! We need your help to 
 
 ### A) Become a Pokedex Resource:
 1. Create a new branch with the name of your favorite tech pokemon.
-2. Add the name of your favorite tech pokemon to the POKEDEX section.
+2. Add the information of your favorite tech pokemon to the POKEDEX section.
 3. Create a merge request to the master branch.
-4. Upon approval, your tech pokemon will appear in the POKEDEX section, and your name will be listed under CONTRIBUTORS.
+4. Upon approval, your updated tech pokemon information will appear in the POKEDEX section, and your name will be listed under CONTRIBUTORS.
 
 ### B) Become a Tech Pokemon Trainer:
 1. Create a new branch with the name of your favorite tech pokemon.
