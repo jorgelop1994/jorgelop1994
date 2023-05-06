@@ -71,6 +71,9 @@ Attention all tech enthusiasts, developers, and creatives! We need your help to 
 
 ## Choose your path:
 
+Please ensure that your contributions are either original creations or adhere to fair use guidelines while respecting the intellectual property rights of the original creators.
+
+
 ### A) Become a Pokedex Resource:
 1. Create a new branch with the name of your favorite tech pokemon.
 2. Add the name of your favorite tech pokemon to the POKEDEX section.
