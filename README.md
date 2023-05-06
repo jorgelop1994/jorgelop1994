@@ -98,7 +98,7 @@ Attention all tech enthusiasts, developers, and creatives! We need your help to 
 **A:** A Tech Pokemon Trainer is someone who captures live Tech Pokemons (in the form of gifs) to expand the collection.
 
 **Q:** Are all types of Tech Pokemons allowed?
-**A:** Yes, all Tech Pokemons are welcome. However, they must be "alive" (gif format) and retain the original colors and artwork from the official technology/software they represent.
+**A:** Yes, all Tech Pokemons are welcome. However, they must be "alive" (gif format with transparent background) and retain the original colors and artwork from the official technology/software they represent.
 
 **Q:** What if a gif breaks?
 **A:** Broken gifs will be replaced with a Pokeball gif, and the Tech Pokemon's name will be added to the BROKEN TECH POKEMON section. We'll assume the Pokemon escaped for a vacation in La Antigua Guatemala. Meanwhile, we will search for a suitable replacement.
