@@ -24,48 +24,15 @@
 * Strong communication skills to work effectively with cross-functional teams
 * Dedicated to delivering high-quality software on time and on budget
 
-<!-- Begin custom HTML -->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        textarea {
-            width: 100%;
-            padding: 8px;
-            border: 2px solid #ccc;
-            border-radius: 4px;
-            box-sizing: border-box;
-            font-size: 16px;
-            resize: vertical; /* Allow vertical resizing */
-        }
-    </style>
-</head>
-<body>
-
 <table>
   <tr>
     <td><img src="assets/chat_avatar.jpg" alt="Chat Avatar" style="width:200px;"></td>
     <td>
         <label for="details">Ask me something about myself.</label>
-        <textarea id="details" name="details" rows="7" placeholder="Any question"></textarea>
+        <textarea id="details" name="details" rows="7" style="width: 100%;" placeholder="Any question"></textarea>
     </td>
   </tr>
 </table>
-</body>
-</html>
 
 <!-- End custom HTML -->
 
