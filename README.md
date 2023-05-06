@@ -29,7 +29,6 @@
     <td><img src="assets/chat_avatar.jpg" alt="Chat Avatar" style="width:200px;"></td>
     <td>
         <label for="details">Ask me something about myself.</label>
-        <textarea id="details" name="details" rows="7" style="width: 100%;" placeholder="Any question"></textarea>
     </td>
   </tr>
 </table>
