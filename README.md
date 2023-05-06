@@ -12,7 +12,7 @@
 * <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="33"> php
 * <img src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" width="30"> Symfony
 * <img src="https://hopetutors.com/wp-content/uploads/2017/03/nodejs-logo-1.png" width="30"> NodeJS
-* <img src="	https://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" width="30"> ReactJS
+* <img src="https://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" width="30"> ReactJS
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30"> Python
 * <img src="https://gitlab.com/uploads/-/system/project/avatar/31295677/pngwing.com__1_.png" width="30"> Django
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" width="30"> .NET
