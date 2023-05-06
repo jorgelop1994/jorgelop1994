@@ -71,7 +71,7 @@ Attention all tech enthusiasts, developers, and creatives! We need your help to 
 
 ## Choose your path:
 
-Please ensure that your contributions are either original creations or adhere to fair use guidelines while respecting the intellectual property rights of the original creators.
+###### Please ensure that your contributions are either original creations or adhere to fair use guidelines while respecting the intellectual property rights of the original creators.
 
 
 ### A) Become a Pokedex Resource:
