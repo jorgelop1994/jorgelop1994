@@ -45,7 +45,8 @@ Feel free to connect with me for more information about my projects and experien
 
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100">  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" width="180"> <img src="https://baulderasec.files.wordpress.com/2020/09/unevensombergalapagossealion-small.gif" width="80">  <img src="https://ftp.ntu.edu.tw/pub/php/images/ele-running.gif" width="150"> 
 
-	
+**Expand to view**
+<details>
 
 ### <img src="https://static.wikia.nocookie.net/pokemon/images/8/82/Pok%C3%A9dex_Closed_LGPE.gif/revision/latest?cb=20211220104518" width="29" height="28"> POKEDEX
 
@@ -111,3 +112,6 @@ Join our incredible adventure and help us catch 'em all! Together, we can create
 ## Disclaimer
 
 This project is a fun, creative, and community-driven initiative. It is not affiliated with, endorsed by, or sponsored by any official Pokemon, technology, or software entities. All contributions should respect the intellectual property rights of the original creators, and any content submitted should adhere to fair use guidelines.
+
+
+</details>
