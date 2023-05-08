@@ -41,7 +41,9 @@ Feel free to connect with me for more information about my projects and experien
 
 [![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](mailto:jorgelop1994@gmail.com?subject=Hey!%20Let's%20Connect%20😎)
 
-## <img src="https://64.media.tumblr.com/dd3f6857ecc417bfbea89bb8ed37a5f7/tumblr_ox6e6kF3HG1sox2ufo1_400.gif" width="35"> TECH POKEMON:
+**Expand to view**
+
+## <img src="https://64.media.tumblr.com/dd3f6857ecc417bfbea89bb8ed37a5f7/tumblr_ox6e6kF3HG1sox2ufo1_400.gif" width="35"> TECH POKEMON
 
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100">  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" width="180"> <img src="https://baulderasec.files.wordpress.com/2020/09/unevensombergalapagossealion-small.gif" width="80">  <img src="https://ftp.ntu.edu.tw/pub/php/images/ele-running.gif" width="150"> 
 
