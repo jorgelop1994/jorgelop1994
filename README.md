@@ -41,7 +41,6 @@ Feel free to connect with me for more information about my projects and experien
 
 [![Let's Connect](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)](mailto:jorgelop1994@gmail.com?subject=Hey!%20Let's%20Connect%20😎)
 
-**Expand to view**
 
 ## <img src="https://64.media.tumblr.com/dd3f6857ecc417bfbea89bb8ed37a5f7/tumblr_ox6e6kF3HG1sox2ufo1_400.gif" width="35"> TECH POKEMON
 
